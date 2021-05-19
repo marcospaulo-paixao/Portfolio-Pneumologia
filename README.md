@@ -1,2 +1,23 @@
 # Portfólio Pneumologia
 Faculdade Puc - Portfólio Doenças Respiratórias
+
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/01 - capa-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/02 - contra_capa-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/03 - sumario-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/04 - introducao-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/05 - patologia_neonatais-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/06 - sindrome_aspiracao_meconio-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/07 - sindrome_membrana_hialina-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/08 - sindrome_pulmao_umido-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/09 - broncodisplasia_pulmonar-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/10 - patologia_pediatrica-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/11 - bronquiolite-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/12 - sindrome_lactente_sibilante-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/13 - asma_bronquica-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/14 - fibrose_cistica-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/15 - pneumonia-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/16 - referencias-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/17 - referencias-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/18 - referencias-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/19 - referencias-1.jpg)
+![alt text](https://github.com/marcospaulo-paixao/Portfolio-Pneumologia/tree/main/jpg/20 - referencias-1.jpg)
